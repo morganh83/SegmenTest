@@ -1,4 +1,5 @@
-usage: segmentationTest.py [-h] [-i IP] [-c CIDR] [-f FILE] [-s] [-v]
+```
+usage: segmentationTest.py [-h] \[-i IP] [-c CIDR] \[-f FILE] [-s] \[-v]
 
 Perform a network segmentation test against a client network or networks
 
@@ -9,3 +10,4 @@ optional arguments:
   -f FILE, --file FILE  File containing IP addresses in CIDR or single format
   -s, --stop            Stop the script after the first failed test
   -v, --verbose         Display the IP addresses of the hosts that responded to the tests
+```
